@@ -1,18 +1,14 @@
-
 # **Python Practice Questions Repository**  
 
 Welcome to my **Python Practice Questions** repository! This repository contains my solutions to a wide range of Python problems, starting from the basics and progressing to more advanced concepts. Each problem is carefully solved and documented to ensure clarity and learning.
 
-##  **Repository Structure**  
-The problems are categorized into different difficulty levels and topics:  
+## **Repository Structure**  
+The problems are categorized into different difficulty levels and topics:
 
 📂 **01-Basics I** – Variables, Data Types, Operators, and Control Flow  
-📂 **02-Basics II** – Loops and Conditions
-
+📂 **02-Basics II** – Loops and Conditions  
 📂 **03-Data Structures** – Lists, Tuples, Dictionaries, Sets  
-
-📂 **04-Iterators & Generators** – `map()`, `filter()`, `reduce()`, and advance functions
-
+📂 **04-Iterators & Generators** – `map()`, `filter()`, `reduce()`, and advance functions  
 📂 **05-Object-Oriented Programming** – Classes, Inheritance, Polymorphism  
 📂 **06-Decorators & Context Managers** – Function Decorators, `with` statement  
 📂 **07-Advanced Python** – Multi-threading, Functional Programming, Metaclasses  
@@ -67,3 +63,4 @@ If you have interesting Python problems or alternative solutions, feel free to c
 If you find this repository helpful, **star ⭐ it on GitHub** and stay tuned for more updates! 🎉  
 
 ---
+
