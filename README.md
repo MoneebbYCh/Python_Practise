@@ -6,10 +6,10 @@ Welcome to my **Python Practice Questions** repository! This repository contains
 ##  **Repository Structure**  
 The problems are categorized into different difficulty levels and topics:  
 
-📂 **01-Basics** – Variables, Data Types, Operators, and Control Flow  
-📂 **02-Functions** – Function Definitions, Lambda Functions, Recursion  
+📂 **01-Basics I** – Variables, Data Types, Operators, and Control Flow  
+📂 **02-Basics II** – Loops and Conditions
 📂 **03-Data Structures** – Lists, Tuples, Dictionaries, Sets  
-📂 **04-Iterators & Generators** – `map()`, `filter()`, `reduce()`, and custom iterators  
+📂 **04-Iterators & Generators** – `map()`, `filter()`, `reduce()`, and advance functions
 📂 **05-Object-Oriented Programming** – Classes, Inheritance, Polymorphism  
 📂 **06-Decorators & Context Managers** – Function Decorators, `with` statement  
 📂 **07-Advanced Python** – Multi-threading, Functional Programming, Metaclasses  
